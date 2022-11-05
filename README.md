@@ -32,10 +32,6 @@ Hey! My name is João. I'm a student at [IPVC](https://www.ipvc.pt) located in V
   
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-
-![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=linux)
-
-![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 - General
