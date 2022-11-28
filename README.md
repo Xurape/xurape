@@ -3,7 +3,7 @@
 Hey! My name is João. I'm a student at [IPVC](https://www.ipvc.pt) located in Viana do Castelo, 🇵🇹 Portugal. I'm currently studing Computer Science and Engineering.
 
 ## → Some boring info
-- 🤔 I'm 17 years old
+- 🤔 I'm 18 years old
 - 🖥 I do some jobs but I mainly code just for fun
 - 🎹 I like to play piano and guitar
 - ❤️ My favourite programming language is PHP
