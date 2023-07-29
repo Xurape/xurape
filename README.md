@@ -1,9 +1,9 @@
 # Hi there, friend 👋
 
 Hey! My name is João. I'm a student at [IPVC](https://www.ipvc.pt) located in Viana do Castelo, 🇵🇹 Portugal. I'm currently studing Computer Science and Engineering.
+In my free time, I'm studying neuro linguistic programming and doing some tests around it :)
 
 ## → Some boring info
-- 🤔 I'm 18 years old, I can now be arrested.
 - 🖥 I do some jobs but I mainly code just for fun
 - 🎹 I like to play piano and guitar
 - ❤️ My favourite programming language is PHP
@@ -11,7 +11,6 @@ Hey! My name is João. I'm a student at [IPVC](https://www.ipvc.pt) located in V
 
 ## → My projects
 - 🚀 [ReduxPanel](https://reduxpanel.com) (My biggest one yet)
-- ✨ [Webya](https://webya.dev)
 
 ## → I usually work with:
 
@@ -33,6 +32,7 @@ Hey! My name is João. I'm a student at [IPVC](https://www.ipvc.pt) located in V
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 - General
 
