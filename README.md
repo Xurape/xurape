@@ -7,10 +7,7 @@ In my free time, I'm studying neuro linguistic programming and doing some tests 
 - 🖥 I do some jobs but I mainly code just for fun
 - 🎹 I like to play piano and guitar
 - ❤️ My favourite programming language is PHP
-- ⚙️ I'm learning Laravel and ReactJS
-
-## → My projects
-- 🚀 [ReduxPanel](https://reduxpanel.com) (My biggest one yet)
+- ⚙️ I'm learning Laravel, ReactJS and Vue
 
 ## → I usually work with:
 
@@ -24,6 +21,7 @@ In my free time, I'm studying neuro linguistic programming and doing some tests 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuejs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
