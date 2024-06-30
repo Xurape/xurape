@@ -8,6 +8,7 @@ In my free time, I'm studying neuro linguistic programming and doing some tests 
 - 🎹 I like to play piano and guitar
 - ❤️ My favourite programming language is PHP
 - ⚙️ I'm learning Laravel, ReactJS and Vue
+- 👀 I want to learn Tauri and also make some Minecraft Mods with Fabric
 
 ## → I usually work with:
 
@@ -42,5 +43,5 @@ In my free time, I'm studying neuro linguistic programming and doing some tests 
 
 ## → Some stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xurape&theme=dracula&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xurape&theme=dracula&show_icons=true&count_private=false)
 ![Xurape's GitHub stats](https://github-readme-stats.vercel.app/api?username=xurape&theme=dracula&show_icons=true&count_private=true)
